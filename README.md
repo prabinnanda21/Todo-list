@@ -1,8 +1,8 @@
 # Todo-list
-Overview
+Overview:-
 This is a simple To-Do List application designed to help you organize your tasks and stay productive. You can add, edit, delete, and mark tasks as completed. This readme file provides information on how to set up and use the application.
 
-Features
+Features:-
 Add tasks with a title and optional description.
 Edit existing tasks to update their title or description.
 Mark tasks as completed to track your progress.
